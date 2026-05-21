@@ -1,0 +1,31 @@
+id,Nombre,Marca,Caducidad,Lote,Precio,Sabor,Tamaño,Tipo
+1,Jugo,Pascual,28/09/2026,500ml,15,Mango,Pequeño,
+2,Pan,Bimbo,24/03/2026,50g,46,Frutas,Pequeño,Para sandwiches
+3,Comida de perro,Pedrigree,30/07/2026,50g,10,Res,Pequeño,Sobre
+4,Malvaviscos,De La Rosa,20/05/2026,15g,5,vainilla,Pequeño,
+5,Comida de gato,Whiskas,05/04/2027,85g,12,Salmon,Pequeño,Sobre
+6,Refresco,Coca Cola,03/11/2027,600ml,18,Cola,Pequeño,Vidrio
+7,Queso,La villita,23/09/2026,400g,67,,Mediano,Panela
+8,Sabritas,Doritos,08/05/2027,200g,20,Nacho,Normal,
+9,Zucaritas,Kelloggys,30/07/2027,600g,90,Chocolate,Mediano,De caja
+10,Chicles,Orbit,09/12/2027,5g,5,Menta,Pequeño,Individuales
+11,Tortillinas,Tia rosa,02/07/2026,306g,37,,Normal,Tortillas de harina
+12,Chocolate,Nestle,12/09/2028,21g,11,Original,pequeño,
+13,Leche,Lala,16/04/2026,1.5L,30,Original,Mediano,Deslactosada
+14,Galletas,Nabisco,26/05/2027,513g,20,Chocolate,Grande,De caja
+15,Gomitas,Ricolino,19/08/2026,115g,15,Frutas,Pequeño,De bolsa
+16,Bebida Energizante,Monster energy,06/09/2027,500ml,36,Fresa,Normal,Energizante
+17,Jamon,FUD,23/05/2026,290g,25,,Mediano,Pavo
+18,Salsa,Valentina,17/09/2027,370ml,20,,Normal,Picante
+19,Dulce,De la Rosa,20/05/2026,19g,8,Cacahuate,Jumbo,
+20,Jugo,Verde valle,01/03/2027,500g,35,Manzana,Normal,Natural
+21,Suavizande de ropa,Suavitel,19/08/2026,740ml,25,Sol,Mediano,
+22,Sopa instantanea,Maruchan,14/06/2027,64g,18,Camaron,Pequeño,Instantanea
+23,Atun,Dolores,09/12/2027,133g,22,,Pequeño,En lata
+24,Papel de baño,petalo,23/03/2029,4 rollos ,60,Canela,Mediano,Delgado
+25,Mayonesa,McCormick,18/12/2026,390g,50,,Mediano,En frasco
+26,Toallas femeninas,Saba,04/04/2027,10 unidades,25,,Pequeño,Invisibles
+27,Producto de limpieza,Fabuloso,17/04/2027,650ml,30,,Mediano,En botella
+28,Agua ,epura,14/05/2029,500ml,20,,Normal,normal
+29,Jabon,Zote,16/04/2026,400g,22,,Grande,Multiusos
+30,Jabon de manos,Dove,08/06/2028,90g,25,,Pequeño,Para manos
