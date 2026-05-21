@@ -1,0 +1,31 @@
+id,Nombre,Precio,Marca,Disponibles,Descripcion,FechaIngreso
+091,Foco LED,60,TAINLAI,3,Foco ahorrador,30/01/26
+092,Extensión,75,VOLTEK,13,Extensión electrónica doméstica,10/01/26
+093,Tira LED,120,TIANLAI,3,Mangueras LED Blanca,06/01/26
+094,Luminario LED,150,TIANLAI,7,Lámparas LED de 54W,28/12/25
+095,RCA,140,DEVILISH,8,Extensión de audio RCA,10/01/26
+096,RCA,140,DEVILISH,8,Extensión de audio RCA,10/01/26
+097,Juego de componentes para instalación,350,HARDEN,2,Juego de componentes para instalación automotriz (cables y accesorios),28/10/25
+098,Bocina Bluetooth,180,Green LEAF,2,Bocina inalámbrica con Bluetooth,20/12/25
+099,Memoria USB,120,Kingston,5,Memoria USB de 32GB,03/02/26
+100,Micrófono profesional,450,HARDEN,1,Micrófono dinámico profesional,30/01/26
+101,Antena aérea,350,LIONTOOLS,4,Antena aérea con Rotor HDTV,10/01/26
+102,Luces laterales,130,DXR,2,Luces laterales de LEDS para motocicleta,21/01/26
+103,Amplificador,2800,DUBmaeaudio,2,Amplificador monobloque clase D,21/01/26
+104,Auriculares inalámbricos,400,SAMSUNG,1,Auriculares inalámbricos con cancelación de ruido,30/01/26
+105,Altavoces,1000,CarbonAudio,4,Altavoces coaxiales de 4 vías,21/01/26
+106,Restaurador de bajos,1300,JCPower,6,Restaurador de bajos con ecualizador de 5 bandas,03/02/26
+107,Altavoces 8,2200,JCPower,8,Par de altavoces de 400 watts,30/01/26
+108,Estéreo para auto,800,Soundstream,2,Receptor de medios digitales para automóvil,30/01/26
+109,Par de bocinas,1500,JCPower,3,1 par de bocinas coaxiales,28/12/25
+110,Cable RCA, Precio: 110,DRX,12,Cable para audio con plugs RCA dorados,03/02/26
+111,Kit de amplificador,480,KAIBOYU,4,Kit de cableado para amplificador,30/01/26
+112,Multímetro,200,DigitalM,3,Multímetro digital profesional,03/02/26
+113,ReprodctorMP3,1100,JCPower,1,Reproductor para auto con Disco,28/12/25
+114,Reproductor MP5,750,RADOX,2,Reproductor MP5 para carro con pantalla táctil,03/02/26
+115,Control para TV,130,RADOX,5,Control remoto para Smart TV,28/12/25
+116,Pila AAA,12,Panasonic,10,Pilas AAA con potencia resistente,03/02/26
+117,Auriculares Bluetooth,200,SAMSUNG,2,Auriculares inalámbricos BT, FM, MP3,31/01/26
+118,Cargador con cable,100,link bits,3,Cargador rápido 1.5M,10/01/26
+119,Control remoto externo,450,HFAudio,2,Control remoto para procesador de bajos,10/01/26
+120,Pila recargable,60,LionTools,4,Pila de larga duración de litio,03/02/26 
